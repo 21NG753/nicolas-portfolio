@@ -1,0 +1,14 @@
+node_modules/
+dist/
+coverage/
+.vite/
+.DS_Store
+Thumbs.db
+
+# Never publish local runtime configuration or credentials
+.env
+.env.*
+.dev.vars
+.dev.vars.*
+.wrangler/
+*.log
