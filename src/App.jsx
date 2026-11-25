@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 
-const email = 'gloirebanza21@gmail.com';
+const email = 'nicolas.banza21@nicodelas.com';
 const whatsapp = '242056990880';
 
 const projects = [
